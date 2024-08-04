@@ -1,13 +1,15 @@
 using System;
 
 class Program
-    {
+{
     static void Main(string[] args)
+    {
+        int[] arr = new int[3] {1,2,3};
+        
+
+        for(int i=0;i<3;++i)
         {
-         MyClass mc = new MyClass(10);
-         //mc.set_data(15);
-         Console.WriteLine(mc.get_data());
-
-
+            Console.WriteLine(arr[i]);
         }
     }
+}
