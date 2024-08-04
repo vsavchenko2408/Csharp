@@ -1,0 +1,15 @@
+D:\MyProjects\Csharp\VSproject\VSproject\bin\Debug\net8.0\VSproject.exe
+D:\MyProjects\Csharp\VSproject\VSproject\bin\Debug\net8.0\VSproject.deps.json
+D:\MyProjects\Csharp\VSproject\VSproject\bin\Debug\net8.0\VSproject.runtimeconfig.json
+D:\MyProjects\Csharp\VSproject\VSproject\bin\Debug\net8.0\VSproject.dll
+D:\MyProjects\Csharp\VSproject\VSproject\bin\Debug\net8.0\VSproject.pdb
+D:\MyProjects\Csharp\VSproject\VSproject\obj\Debug\net8.0\VSproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Csharp\VSproject\VSproject\obj\Debug\net8.0\VSproject.AssemblyInfoInputs.cache
+D:\MyProjects\Csharp\VSproject\VSproject\obj\Debug\net8.0\VSproject.AssemblyInfo.cs
+D:\MyProjects\Csharp\VSproject\VSproject\obj\Debug\net8.0\VSproject.csproj.CoreCompileInputs.cache
+D:\MyProjects\Csharp\VSproject\VSproject\obj\Debug\net8.0\VSproject.sourcelink.json
+D:\MyProjects\Csharp\VSproject\VSproject\obj\Debug\net8.0\VSproject.dll
+D:\MyProjects\Csharp\VSproject\VSproject\obj\Debug\net8.0\refint\VSproject.dll
+D:\MyProjects\Csharp\VSproject\VSproject\obj\Debug\net8.0\VSproject.pdb
+D:\MyProjects\Csharp\VSproject\VSproject\obj\Debug\net8.0\VSproject.genruntimeconfig.cache
+D:\MyProjects\Csharp\VSproject\VSproject\obj\Debug\net8.0\ref\VSproject.dll
